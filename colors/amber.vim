@@ -31,10 +31,10 @@ if &background == "dark" " set background=dark
   hi MatchParen ctermfg=234 ctermbg=214 cterm=bold,reverse guifg=#1c1c1c guibg=#ffaf00 gui=bold,reverse
   hi ModeMsg ctermfg=208 ctermbg=none cterm=none guifg=#ff8700 guibg=#000000 gui=none
   hi MoreMsg ctermfg=208 ctermbg=none cterm=none guifg=#ff8700 guibg=#000000 gui=none
-  hi Pmenu ctermfg=166 ctermbg=234 cterm=none guifg=#d75f00 guibg=#1c1c1c gui=none
-  hi PmenuSel ctermfg=166 ctermbg=234 cterm=reverse guifg=#d75f00 guibg=#1c1c1c gui=reverse
-  hi PmenuSbar ctermfg=52 ctermbg=233 cterm=none guifg=#5f0000 guibg=#121212 gui=none
-  hi PmenuThumb ctermfg=208 ctermbg=124 cterm=reverse guifg=#ff8700 guibg=#af0000 gui=reverse
+  hi Pmenu ctermfg=208 ctermbg=none cterm=none guifg=#ff8700 guibg=#000000 gui=none
+  hi PmenuSbar ctermfg=208 ctermbg=none cterm=none guifg=#ff8700 guibg=#000000 gui=none
+  hi PmenuSel ctermfg=208 ctermbg=233 cterm=reverse guifg=#ff8700 guibg=#121212 gui=reverse
+  hi PmenuThumb ctermfg=208 ctermbg=none cterm=reverse guifg=#ff8700 guibg=#000000 gui=reverse
   hi Question ctermfg=208 ctermbg=none cterm=none guifg=#ff8700 guibg=#000000 gui=none
   hi Search ctermfg=none ctermbg=166 cterm=none guifg=#000000 guibg=#d75f00 gui=none
   hi SignColumn ctermfg=208 ctermbg=none cterm=none guifg=#ff8700 guibg=#000000 gui=none
