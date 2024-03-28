@@ -80,7 +80,7 @@ if &background == "dark" " set background=dark
   hi Special ctermfg=208 ctermbg=none cterm=none guifg=#ff8700 guibg=#000000 gui=none
   hi SpecialChar ctermfg=208 ctermbg=none cterm=none guifg=#ff8700 guibg=#000000 gui=none
   hi Tag ctermfg=208 ctermbg=none cterm=none guifg=#ff8700 guibg=#000000 gui=none
-  hi Delimiter ctermfg=208 ctermbg=234 cterm=none guifg=#ff8700 guibg=#1c1c1c gui=none
+  hi Delimiter ctermfg=208 ctermbg=none cterm=none guifg=#ff8700 guibg=#000000 gui=none
   hi SpecialComment ctermfg=208 ctermbg=none cterm=none guifg=#ff8700 guibg=#000000 gui=none
   hi Debug ctermfg=208 ctermbg=none cterm=none guifg=#ff8700 guibg=#000000 gui=none
   hi Underlined ctermfg=208 ctermbg=none cterm=none guifg=#ff8700 guibg=#000000 gui=none
